@@ -28,11 +28,11 @@ export default function Home() {
             >
               By{' '}
               <Image
-                src="/avatar.jpg"
+                src="avatar.jpg"
                 alt="Vercel Logo"
                 className={styles.vercelLogo}
                 width={100}
-                height={24}
+                height={100}
                 priority
               />
             </a>
