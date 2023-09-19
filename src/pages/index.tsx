@@ -35,6 +35,22 @@ export default function Home() {
                 height={100}
                 priority
               />
+              <Image
+                src="avatar.jpg"
+                alt="Vercel Logo"
+                className={styles.vercelLogo}
+                width={100}
+                height={100}
+                priority
+              />
+              <Image
+                src="gn100205.jpg"
+                alt="Vercel Logo"
+                className={styles.vercelLogo}
+                width={100}
+                height={100}
+                priority
+              />
             </a>
           </div>
         </div>
